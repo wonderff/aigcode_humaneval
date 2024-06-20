@@ -9,6 +9,6 @@ Both Base and Plus results are reported:
     </tr>
     <tr>
         <td style="text-align: left"><b>AIGCodeGeek-DS-6.7B</b></td>
-        <td>83.6</td><td>76.2</td>
+        <td>83.5</td><td>76.2</td>
     </tr>
 </table>
